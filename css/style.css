@@ -1,8 +1,7 @@
 /* add CSS class and element and selectors here */
 
 body {
-  background-color: purple;
-  font-size: 150%;
+  background-color: red;
   color: white;
 }
 
@@ -11,5 +10,9 @@ h3 {
 }
 
 div {
-  
+  border: dashed; 
+}
+
+p{
+  color: green;
 }
