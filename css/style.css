@@ -7,13 +7,14 @@ body {
 
 h3 {
   font-size: 300%;
+  text-shadow: 2px 2px #ff0000;
 }
 
 div {
   border: solid; 
 }
 
-h1, h2, h3 {
+h1, h2 {
     text-shadow: 2px 2px #ff0000;
 }
 .myClass {
