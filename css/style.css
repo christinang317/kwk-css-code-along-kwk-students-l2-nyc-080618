@@ -10,9 +10,14 @@ h3 {
 }
 
 div {
-  border: dashed; 
+  border: solid; 
 }
 
 p{
   color: green;
+}
+
+.myClass {
+  background-color: gray;
+  color: blue;
 }
