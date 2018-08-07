@@ -13,6 +13,9 @@ div {
   border: solid; 
 }
 
+h1 {
+    text-shadow: 2px 2px #ff0000;
+}
 .myClass {
   background-color: yellow;
   color: blue;
